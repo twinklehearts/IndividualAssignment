@@ -2,12 +2,24 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { render } from "react-dom";
 import reportWebVitals from './reportWebVitals';
+import { Home } from "./home.js"
+import { Results } from "./results.js"
+import 'bootstrap/dist/css/bootstrap.min.css';
 
+
+// function onChange(value) {
+//   console.log("Captcha value:", value);
+// }
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/results" exact component={Results} />
+      </Routes>
+  </BrowserRouter>,
   document.getElementById('root')
 );
 

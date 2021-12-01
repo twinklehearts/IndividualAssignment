@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.service-check label {
+  margin: 0px 20px 0px 3px;
+}
+
+.form-check label {
+  margin: 0px 20px 0px 3px;
+}
+
+h1 {
+  text-align: center;
+}
