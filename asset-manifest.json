@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IndividualAssignment/static/css/main.3a9b46a8.chunk.css",
+    "main.js": "/IndividualAssignment/static/js/main.74f743c9.chunk.js",
+    "main.js.map": "/IndividualAssignment/static/js/main.74f743c9.chunk.js.map",
+    "runtime-main.js": "/IndividualAssignment/static/js/runtime-main.48365d8f.js",
+    "runtime-main.js.map": "/IndividualAssignment/static/js/runtime-main.48365d8f.js.map",
+    "static/css/2.383c0125.chunk.css": "/IndividualAssignment/static/css/2.383c0125.chunk.css",
+    "static/js/2.00f88280.chunk.js": "/IndividualAssignment/static/js/2.00f88280.chunk.js",
+    "static/js/2.00f88280.chunk.js.map": "/IndividualAssignment/static/js/2.00f88280.chunk.js.map",
+    "static/js/3.a08f527d.chunk.js": "/IndividualAssignment/static/js/3.a08f527d.chunk.js",
+    "static/js/3.a08f527d.chunk.js.map": "/IndividualAssignment/static/js/3.a08f527d.chunk.js.map",
+    "index.html": "/IndividualAssignment/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/IndividualAssignment/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3a9b46a8.chunk.css.map": "/IndividualAssignment/static/css/main.3a9b46a8.chunk.css.map",
+    "static/js/2.00f88280.chunk.js.LICENSE.txt": "/IndividualAssignment/static/js/2.00f88280.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48365d8f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.00f88280.chunk.js",
+    "static/css/main.3a9b46a8.chunk.css",
+    "static/js/main.74f743c9.chunk.js"
+  ]
+}
