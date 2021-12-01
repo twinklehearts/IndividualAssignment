@@ -4,7 +4,7 @@ import { Button, Form, Style, Render } from "react-bootstrap"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ReCAPTCHA from "react-google-recaptcha";
 import App from "./App"
-import Home from "./Index"
+import Home from "."
 
 export class Results extends Component {
 
