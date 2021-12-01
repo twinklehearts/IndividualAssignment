@@ -1,19 +1,29 @@
-import React from "react"
-import './App.css';
-import { HashRouter as Router, Route } from "react-router-dom"
-import ReactDom from 'react-dom';
-import { Link } from "react-router-dom"
-import { Button, Form, Style } from "react-bootstrap"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { render } from "react-dom";
+import reportWebVitals from './reportWebVitals';
+import { Home } from "./Index.js"
+import { Results } from "./results.js"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ReCAPTCHA from "react-google-recaptcha";
 
-function App() {
-  return(
-    <div>
-      Hello
-    </div>
-  );
 
-}
+// function onChange(value) {
+//   console.log("Captcha value:", value);
+// }
+ReactDOM.render(
+  <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/results" exact component={Results} />
+      </Routes>
+  </BrowserRouter>,
+  document.getElementById('root')
+);
 
-export default App;
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
