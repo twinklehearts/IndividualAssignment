@@ -9,17 +9,6 @@ import Home from "./home"
 export class Results extends Component {
 
     
-    render() {
-    return (
-        <div class="container">
-            <body>
-                <a>
-                    Yes
-                </a>
-            </body>
-        </div>
-    )
-    }
 }
 
 export default Results;
