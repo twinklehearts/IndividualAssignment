@@ -5,7 +5,7 @@ import App from './App';
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import { render } from "react-dom";
 import reportWebVitals from './reportWebVitals';
-import { Home } from "./home.js"
+import { Home } from "./App.js"
 import { Results } from "./results.js"
 import 'bootstrap/dist/css/bootstrap.min.css';
 
