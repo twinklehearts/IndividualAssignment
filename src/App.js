@@ -1,5 +1,4 @@
 import React, { Component, useState, Redirect } from "react"
-import './App.css';
 import ReactDom from 'react-dom';
 import { Link, withRouter} from "react-router-dom"
 import { Button, Form, Style } from "react-bootstrap"
