@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/IndividualAssignment/static/css/main.244bb3fd.chunk.css",
-    "main.js": "/IndividualAssignment/static/js/main.c5a85cbc.chunk.js",
-    "main.js.map": "/IndividualAssignment/static/js/main.c5a85cbc.chunk.js.map",
-    "runtime-main.js": "/IndividualAssignment/static/js/runtime-main.2800822f.js",
-    "runtime-main.js.map": "/IndividualAssignment/static/js/runtime-main.2800822f.js.map",
+    "main.js": "/IndividualAssignment/static/js/main.0f6171aa.chunk.js",
+    "main.js.map": "/IndividualAssignment/static/js/main.0f6171aa.chunk.js.map",
+    "runtime-main.js": "/IndividualAssignment/static/js/runtime-main.48365d8f.js",
+    "runtime-main.js.map": "/IndividualAssignment/static/js/runtime-main.48365d8f.js.map",
     "static/css/2.383c0125.chunk.css": "/IndividualAssignment/static/css/2.383c0125.chunk.css",
-    "static/js/2.45d631eb.chunk.js": "/IndividualAssignment/static/js/2.45d631eb.chunk.js",
-    "static/js/2.45d631eb.chunk.js.map": "/IndividualAssignment/static/js/2.45d631eb.chunk.js.map",
-    "static/js/3.361a062a.chunk.js": "/IndividualAssignment/static/js/3.361a062a.chunk.js",
-    "static/js/3.361a062a.chunk.js.map": "/IndividualAssignment/static/js/3.361a062a.chunk.js.map",
+    "static/js/2.1390c2a2.chunk.js": "/IndividualAssignment/static/js/2.1390c2a2.chunk.js",
+    "static/js/2.1390c2a2.chunk.js.map": "/IndividualAssignment/static/js/2.1390c2a2.chunk.js.map",
+    "static/js/3.a08f527d.chunk.js": "/IndividualAssignment/static/js/3.a08f527d.chunk.js",
+    "static/js/3.a08f527d.chunk.js.map": "/IndividualAssignment/static/js/3.a08f527d.chunk.js.map",
     "index.html": "/IndividualAssignment/index.html",
     "static/css/2.383c0125.chunk.css.map": "/IndividualAssignment/static/css/2.383c0125.chunk.css.map",
     "static/css/main.244bb3fd.chunk.css.map": "/IndividualAssignment/static/css/main.244bb3fd.chunk.css.map",
-    "static/js/2.45d631eb.chunk.js.LICENSE.txt": "/IndividualAssignment/static/js/2.45d631eb.chunk.js.LICENSE.txt"
+    "static/js/2.1390c2a2.chunk.js.LICENSE.txt": "/IndividualAssignment/static/js/2.1390c2a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2800822f.js",
+    "static/js/runtime-main.48365d8f.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.45d631eb.chunk.js",
+    "static/js/2.1390c2a2.chunk.js",
     "static/css/main.244bb3fd.chunk.css",
-    "static/js/main.c5a85cbc.chunk.js"
+    "static/js/main.0f6171aa.chunk.js"
   ]
 }
